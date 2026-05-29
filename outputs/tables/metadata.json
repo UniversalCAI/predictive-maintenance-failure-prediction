@@ -1,0 +1,30 @@
+{
+  "n_rows": 10000,
+  "n_features_used": 6,
+  "n_features_with_physics": 16,
+  "physics_features": [
+    "temp_delta",
+    "temp_ratio",
+    "power_proxy",
+    "torque_per_speed",
+    "speed_torque_ratio",
+    "wear_torque",
+    "wear_torque_ratio",
+    "wear_speed",
+    "wear_process_temp",
+    "thermal_speed_load"
+  ],
+  "failure_rate": 0.0339,
+  "train_size": 6000,
+  "val_size": 2000,
+  "test_size": 2000,
+  "fp_cost": 10,
+  "fn_cost": 500,
+  "dropped_label_columns": [
+    "TWF",
+    "HDF",
+    "PWF",
+    "OSF",
+    "RNF"
+  ]
+}

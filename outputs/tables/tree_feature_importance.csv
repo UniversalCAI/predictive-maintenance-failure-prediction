@@ -1,0 +1,19 @@
+feature,importance
+speed_torque_ratio,0.22354192
+torque_per_speed,0.15135269
+wear_process_temp,0.109265395
+Tool wear [min],0.09045995
+Rotational speed [rpm],0.072418384
+thermal_speed_load,0.061676584
+power_proxy,0.058742907
+Torque [Nm],0.058232788
+wear_torque,0.037643835
+temp_ratio,0.026001245
+wear_speed,0.024514776
+temp_delta,0.023328055
+wear_torque_ratio,0.02264372
+Air temperature [K],0.015578356
+Process temperature [K],0.010699112
+Type_H,0.006018433
+Type_L,0.0053832494
+Type_M,0.002498602

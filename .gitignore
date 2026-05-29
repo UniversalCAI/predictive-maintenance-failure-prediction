@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+
+# Generated model artifacts
+outputs/models/
+*.joblib
+*.pkl
+
+# Local logs and temporary files
+*.log
+*.aux
+*.toc
+*.out
+*.blg
+*.bbl
+*.bcf
+*.run.xml
+
+# OS files
+.DS_Store
+Thumbs.db

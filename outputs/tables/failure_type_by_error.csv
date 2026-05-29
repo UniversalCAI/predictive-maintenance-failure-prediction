@@ -1,0 +1,5 @@
+error_type,TWF,HDF,PWF,OSF,RNF
+FN,2,0,0,0,0
+FP,0,0,0,0,2
+TN,0,0,0,0,2
+TP,8,29,13,16,0
